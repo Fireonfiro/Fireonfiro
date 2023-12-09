@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fireonfiro
-- 👀 I’m interested in learning how to code, programming apps and web developement
-- 🌱 I’m currently learning python and javascript
+- 👀 I’m interested in learning how to code, programming apps, maschine learning and web developement
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on every project for beginners
 - 📫 How to reach me 
 
